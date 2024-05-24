@@ -4,9 +4,9 @@
 
 <h2> Sobre mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="120px" align="right"></h2>
 
-<p> ▸ Soy Full-Stack Web Developer de Argentina. </p>
+<p> ▸ Soy Fronted Developer de Argentina. </p>
 
-<p> ▸ Actualmente estoy en busqueda de trabajo como Web Developer. </p>
+<p> ▸ Actualmente estoy en busqueda de trabajo. </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "16px"> </h2>
 <a href= https://github.com/mateobonavia?tab=repositories&q=&type=&language=typescript&sort > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
